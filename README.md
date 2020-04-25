@@ -1,4 +1,4 @@
-#Translated Articles
+# Translated Articles
 <h2>Here you can find links to translated articles from Russian and English to Uzbek</h2>
 <p>There is link to the original article in the every article in the top after title <p>
   <hr/>
