@@ -1,4 +1,4 @@
-# Translated Articles
+# Translated Articles | Tarjima qilingan maqolalar
 <h1>English</h1>
 <h2>Here you can find links to translated articles from Russian and English to Uzbek</h2>
 <p>There is link to the original article in the every article in the top after title <p>
@@ -11,7 +11,7 @@
 </ul>
 <hr>
 <h1>O'zbek tilida</h1>
-<h2>HBu yerda siz ingliz va rus tilidagi maqolalarni o'zbek tiliga tarjimasini topishingiz mumkin</h2>
+<h2>Bu yerda siz ingliz va rus tilidagi maqolalarni o'zbek tiliga tarjimasini topishingiz mumkin</h2>
 <p>Har bir maqola yuqorisida original maqolaga havolani topasiz<p>
   <hr/>
 <ul>
