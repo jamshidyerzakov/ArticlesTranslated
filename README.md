@@ -9,10 +9,10 @@
     <li><h3><a href="https://telegra.ph/23-Daqiqa-Uzoq-oylaydiganlarni-oqlash-04-18">23 Minutes or Exuce for "stupids"</a> (translated from Russian)</h3>
      <li><h3><a href="https://telegra.ph/Pythonista-lar-kim-va-qanday-qilib-ular-orasiga-qoshilish-mumkin-05-03">What is a Pythonista and How to Become One</a> (translated from English)</h3>
 </ul>
-
+<hr>
 <h1>O'zbek tilida</h1>
 <h2>HBu yerda siz ingliz va rus tilidagi maqolalarni o'zbek tiliga tarjimasini topishingiz mumkin</h2>
-<p>ThHar bir maqola tepasida original maqolaga havolani topasiz<p>
+<p>Har bir maqola yuqorisida original maqolaga havolani topasiz<p>
   <hr/>
 <ul>
 <li><h3><a href="https://telegra.ph/Bu-maqolani-albatta-saqlab-qoying-ayniqsa-Python-ni-ozingiz-organayotgan-bolsangiz-04-22">Pythonni yaqinda boshlaganlar uchun (kod misollari bilan) </a> (Ingliz tilidan tarjima qilingan)</h3>
