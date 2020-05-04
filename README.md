@@ -17,7 +17,7 @@
 <ul>
 <li><h3><a href="https://telegra.ph/Bu-maqolani-albatta-saqlab-qoying-ayniqsa-Python-ni-ozingiz-organayotgan-bolsangiz-04-22">Pythonni yaqinda boshlaganlar uchun (kod misollari bilan) </a> (Ingliz tilidan tarjima qilingan)</h3>
   <li><h3><a href="https://telegra.ph/Bu-maqolani-albatta-saqlab-qoying-ayniqsa-Python-ni-ozingiz-organayotgan-bolsangiz-04-22">Men haligacha uyaladigan kod</a> (Ingliz tilidan tarjima qilingan)</h3>
-    <li><h3><a href="https://telegra.ph/23-Daqiqa-Uzoq-oylaydiganlarni-oqlash-04-18">23 daqiqa yoki ko'p o'ylaydiganlar uchun baxona.</a> (Rus tilidan tarjima qilingan)</h3>
+    <li><h3><a href="https://telegra.ph/23-Daqiqa-Uzoq-oylaydiganlarni-oqlash-04-18">23 daqiqa.Uzoq o'ylaydiganlarni oqlash.</a> (Rus tilidan tarjima qilingan)</h3>
      <li><h3><a href="https://telegra.ph/Pythonista-lar-kim-va-qanday-qilib-ular-orasiga-qoshilish-mumkin-05-03">'Pythonista' lar kim va qanday qilib ular orasiga qo'shilish mumkin.</a> (Ingliz tilidan tarjima qilingan)</h3>
 </ul>
 
