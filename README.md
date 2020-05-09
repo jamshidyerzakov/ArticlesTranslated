@@ -8,6 +8,7 @@
   <li><h3><a href="https://telegra.ph/Bu-maqolani-albatta-saqlab-qoying-ayniqsa-Python-ni-ozingiz-organayotgan-bolsangiz-04-22">The code that I'm still ashamed of</a> (translated from English)</h3>
     <li><h3><a href="https://telegra.ph/23-Daqiqa-Uzoq-oylaydiganlarni-oqlash-04-18">23 Minutes or Exuce for "stupids"</a> (translated from Russian)</h3>
      <li><h3><a href="https://telegra.ph/Pythonista-lar-kim-va-qanday-qilib-ular-orasiga-qoshilish-mumkin-05-03">What is a Pythonista and How to Become One</a> (translated from English)</h3>
+       <li><h3><a href="https://telegra.ph/Python-bilan-qanday-qilib-pul-ishlash-mumkin-05-09">How to earn money with Python</a> (translated from English)</h3>
 </ul>
 <hr>
 <h1>O'zbek tilida</h1>
@@ -19,6 +20,7 @@
   <li><h3><a href="https://telegra.ph/Bu-maqolani-albatta-saqlab-qoying-ayniqsa-Python-ni-ozingiz-organayotgan-bolsangiz-04-22">Men haligacha uyaladigan kod</a> (Ingliz tilidan tarjima qilingan)</h3>
     <li><h3><a href="https://telegra.ph/23-Daqiqa-Uzoq-oylaydiganlarni-oqlash-04-18">23 daqiqa. Uzoq o'ylaydiganlarni oqlash.</a> (Rus tilidan tarjima qilingan)</h3>
      <li><h3><a href="https://telegra.ph/Pythonista-lar-kim-va-qanday-qilib-ular-orasiga-qoshilish-mumkin-05-03">'Pythonista' lar kim va qanday qilib ular orasiga qo'shilish mumkin.</a> (Ingliz tilidan tarjima qilingan)</h3>
+       <li><h3><a href="https://telegra.ph/Python-bilan-qanday-qilib-pul-ishlash-mumkin-05-09">Python bilan qanday qilib pul ishlash mumkin?</a> (Ingliz tilidan tarjima qilingan)</h3>
 </ul>
 
 
